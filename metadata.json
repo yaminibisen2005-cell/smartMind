@@ -1,0 +1,6 @@
+{
+  "name": "SIGNAL MIND",
+  "description": "An AI-powered Smart Traffic Management platform that optimizes routes, predicts delays, reserves parking, monitors emergency control vehicles, and provides travel intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
